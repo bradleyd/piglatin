@@ -2,4 +2,4 @@
 
 ### playing with Go
 
-* piglatin gernerator for Go
+* piglatin generator for Go
